@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://barber-pi-seven.vercel.app/sitemap.xml
